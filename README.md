@@ -42,3 +42,12 @@
       height="40"
     />
   </a>
+
+  <a href="https://www.android.com/intl/es_es/" target="_blank">
+    <img
+      src="https://lh3.googleusercontent.com/P5QMyNHTevjUPkQYYC1bo5-gBdJkwOqgXpIwL80JgIm4CO-yzK32OOX3pr7y8b9YNhXQZotdsgD7JLolmWZx5BkvEvZwofL7I8CLHBOINY5O09KlrQ=rwa-s0"
+      alt="Android Studio"
+      width="50"
+      height="40"
+    />
+  </a>
