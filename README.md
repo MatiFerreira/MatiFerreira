@@ -34,3 +34,11 @@
       height="40"
     />
   </a>
+  <a href="https://spark.apache.org/" target="_blank">
+    <img
+      src="https://spark.apache.org/images/spark-logo-rev.svg"
+      alt="Spark"
+      width="40"
+      height="40"
+    />
+  </a>
