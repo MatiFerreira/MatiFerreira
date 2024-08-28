@@ -7,7 +7,7 @@
       src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png"
       alt="Scala"
       width="40"
-      height="40"
+      height="50"
     />
   </a>
   <a href="https://kotlinlang.org" target="_blank">
