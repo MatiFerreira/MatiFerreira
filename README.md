@@ -4,7 +4,7 @@
 <p align="left">
     <a href="https://www.scala-lang.org/" target="_blank">
     <img
-      src="https://www.scala-lang.org/resources/img/frontpage/scala-logo-white-hero@2x.png"
+      src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png"
       alt="Scala"
       width="40"
       height="40"
